@@ -1,0 +1,568 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+7A-abi,No glottalized consonants,Glottalized Consonants,Abipón,,,Najlis 1966
+7A-abk,Ejectives only,Glottalized Consonants,Abkhaz,,,Hewitt 1979
+7A-ach,No glottalized consonants,Glottalized Consonants,Aché,,,Susnik 1974
+7A-acm,No glottalized consonants,Glottalized Consonants,Achumawi,,,Olmsted 1966;Olmsted 1964
+7A-aco,Ejectives and glottalized resonants,Glottalized Consonants,Acoma,,,Miller 1966
+7A-adz,No glottalized consonants,Glottalized Consonants,Adzera,,,Holzknecht 1973
+7A-agh,No glottalized consonants,Glottalized Consonants,Aghem,,,Hyman 1979
+7A-aht,Ejectives only,Glottalized Consonants,Ahtna,,,Kari 1990
+7A-aik,No glottalized consonants,Glottalized Consonants,Aikaná,,,Hanke 1956;Aikhenvald and Dixon 1999
+7A-ain,No glottalized consonants,Glottalized Consonants,Ainu,,,Simeon 1969;Patrie 1982
+7A-aiz,Implosives only,Glottalized Consonants,Aizi,,,Herault 1971
+7A-akn,No glottalized consonants,Glottalized Consonants,Akan,,,Welmers 1946;Dolphyne 1988;Ladefoged 1964;Schachter and Fromkin 1968;Stewart 1967
+7A-akw,No glottalized consonants,Glottalized Consonants,Akawaio,,,Edwards 1978
+7A-abm,No glottalized consonants,Glottalized Consonants,Alabama,,,Rand 1968
+7A-ala,No glottalized consonants,Glottalized Consonants,Alamblak,,,Bruce 1984
+7A-alw,No glottalized consonants,Glottalized Consonants,Alawa,,,Sharpe 1972
+7A-alb,No glottalized consonants,Glottalized Consonants,Albanian,,,Newmark 1957
+7A-aea,No glottalized consonants,Glottalized Consonants,Aleut (Eastern),,,Jacobson 1944;Rozelle 1997;Bergsland 1994;Cho et al. 1997;Menovshchikov 1968;Bergsland 1956;Bergsland 1959
+7A-ald,No glottalized consonants,Glottalized Consonants,Alladian,,,Dumestre and Duponchel 1971;Duponchel 1971
+7A-amc,No glottalized consonants,Glottalized Consonants,Amahuaca,,,Osborn 1948
+7A-ame,No glottalized consonants,Glottalized Consonants,Amele,,,Roberts 1987
+7A-amh,Ejectives only,Glottalized Consonants,Amharic,,,Hayward and Hayward 1999
+7A-amo,No glottalized consonants,Glottalized Consonants,Amo,,,Anderson 1980;Di Luzio 1972
+7A-amu,No glottalized consonants,Glottalized Consonants,Amuesha,,,Fast 1953;Wise 1958
+7A-amz,No glottalized consonants,Glottalized Consonants,Amuzgo,,,Bauernschmidt 1965;Longacre 1966
+7A-adk,No glottalized consonants,Glottalized Consonants,Andoke,,,Landaburu 1979
+7A-ant,No glottalized consonants,Glottalized Consonants,Angaatiha,,,Huisman and Lloyd 1981;Huisman 1973;Huisman et al. 1981
+7A-anc,Implosives only,Glottalized Consonants,Angas,,,Burquest 1971
+7A-ani,Ejectives only,Glottalized Consonants,//Ani,,,Vossen 1986;Vossen 1997
+7A-ao,No glottalized consonants,Glottalized Consonants,Ao,,,Gowda 1975;Gowda 1972
+7A-api,No glottalized consonants,Glottalized Consonants,Apinayé,,,Burgess and Ham 1968
+7A-apu,No glottalized consonants,Glottalized Consonants,Apurinã,,,Facundes 2000
+7A-arb,No glottalized consonants,Glottalized Consonants,Arabela,,,Rich 1963
+7A-aeg,No glottalized consonants,Glottalized Consonants,Arabic (Egyptian),,,Mitchell 1962;Kennedy 1960;Tomiche 1964
+7A-ana,No glottalized consonants,Glottalized Consonants,Araona,,,de Pitman 1981
+7A-arp,No glottalized consonants,Glottalized Consonants,Arapesh (Mountain),,,Conrad and Wogiga 1991
+7A-arc,Ejectives only,Glottalized Consonants,Archi,,,Kodzasov 1977
+7A-arm,Ejectives only,Glottalized Consonants,Armenian (Eastern),,,Allen 1950
+7A-amp,No glottalized consonants,Glottalized Consonants,Arrernte (Mparntwe),,,Henderson 1994
+7A-asm,No glottalized consonants,Glottalized Consonants,Asmat,,,Voorhoeve 1965
+7A-ata,No glottalized consonants,Glottalized Consonants,Atayal,,,Egerod 1966b
+7A-ava,Ejectives only,Glottalized Consonants,Avar,,,Charachidzé 1981;Zhirkov 1936
+7A-awp,No glottalized consonants,Glottalized Consonants,Awa Pit,,,Curnow 1997
+7A-awn,No glottalized consonants,Glottalized Consonants,Awngi,,,Hetzron 1969;Hetzron 1976
+7A-aym,Ejectives only,Glottalized Consonants,Aymara (Central),,,Martín 1969
+7A-aze,No glottalized consonants,Glottalized Consonants,Azerbaijani,,,Householder and Lofti 1965
+7A-bag,Implosives only,Glottalized Consonants,Bagirmi,,,Stevenson 1969
+7A-bai,No glottalized consonants,Glottalized Consonants,Bai,,,Dell 1981
+7A-baj,No glottalized consonants,Glottalized Consonants,Bajau (Sama),,,Verheijen 1986
+7A-bki,No glottalized consonants,Glottalized Consonants,Bakairí,,,Wheatley 1969;Wheatley 1973
+7A-bam,No glottalized consonants,Glottalized Consonants,Bambara,,,Bird et al. 1977
+7A-byu,No glottalized consonants,Glottalized Consonants,Bandjalang (Yugumbir),,,Cunningham 1969
+7A-brd,No glottalized consonants,Glottalized Consonants,Bardi,,,Metcalfe 1971
+7A-brb,No glottalized consonants,Glottalized Consonants,Bariba,,,Welmers 1952a
+7A-bsk,No glottalized consonants,Glottalized Consonants,Bashkir,,,Poppe 1964
+7A-bsq,No glottalized consonants,Glottalized Consonants,Basque,,,Saltarelli et al. 1988
+7A-bkr,No glottalized consonants,Glottalized Consonants,Batak (Karo),,,Woollams 1996
+7A-bto,No glottalized consonants,Glottalized Consonants,Batak (Toba),,,van der Tuuk 1971
+7A-baw,No glottalized consonants,Glottalized Consonants,Bawm,,,Reichle 1981
+7A-bee,No glottalized consonants,Glottalized Consonants,Beembe,,,Jacquot 1962;Jacquot 1981
+7A-bej,No glottalized consonants,Glottalized Consonants,Beja,,,Hudson 1974;Hudson 1976b
+7A-bco,Ejectives only,Glottalized Consonants,Bella Coola,,,Nater 1984;Newman 1947
+7A-ben,No glottalized consonants,Glottalized Consonants,Bengali,,,Klaiman 1990;Ferguson and Chowdhury 1960
+7A-bma,No glottalized consonants,Glottalized Consonants,Berber (Middle Atlas),,,Abdel-Massih 1971;Penchoen 1973b
+7A-ber,Ejectives only,Glottalized Consonants,Berta,,,Triulzi et al. 1976a
+7A-bet,Implosives only,Glottalized Consonants,Bété,,,Werle and Gbalehi 1976
+7A-bir,No glottalized consonants,Glottalized Consonants,Birom,,,Bouquiaux 1970;Wolff 1959
+7A-bis,No glottalized consonants,Glottalized Consonants,Bisa,,,Naden 1973
+7A-bbf,No glottalized consonants,Glottalized Consonants,Bobo Madaré (Northern),,,Bris and Prost 1981;Morse 1976
+7A-bod,No glottalized consonants,Glottalized Consonants,Bodo,,,Bhat 1968
+7A-brr,No glottalized consonants,Glottalized Consonants,Bororo,,,Crowell 1979
+7A-brh,No glottalized consonants,Glottalized Consonants,Brahui,,,De Armond 1975;Emeneau 1962;Emeneau 1937
+7A-bra,Implosives only,Glottalized Consonants,Brao,,,Keller 1976
+7A-bre,No glottalized consonants,Glottalized Consonants,Breton,,,Bothorel 1982;Ternes 1970
+7A-bri,No glottalized consonants,Glottalized Consonants,Bribri,,,Arroyo 1972
+7A-brw,No glottalized consonants,Glottalized Consonants,Bru (Western),,,Thongkum 1979
+7A-bul,No glottalized consonants,Glottalized Consonants,Bulgarian,,,Ternes and Vladimirova-Buhtz 1999;Aronson 1968;Bidwell 1968;Klagstad 1958;Scatton 1984
+7A-bua,No glottalized consonants,Glottalized Consonants,Burarra,,,Glasgow and Glasgow 1967
+7A-brm,No glottalized consonants,Glottalized Consonants,Burmese,,,Watkins 2001;Okell 1969
+7A-bur,No glottalized consonants,Glottalized Consonants,Burushaski,,,Morgenstierne 1945;Anderson 1997b
+7A-cac,No glottalized consonants,Glottalized Consonants,Cacua,,,Cathcart 1979;Anderton 1989
+7A-cad,Ejectives only,Glottalized Consonants,Caddo,,,Chafe 1979;Chafe 1976
+7A-cah,No glottalized consonants,Glottalized Consonants,Cahuilla,,,Bright 1965b;Seiler 1977;Sauvel and Munro 1981
+7A-cax,No glottalized consonants,Glottalized Consonants,Campa (Axininca),,,Dirks 1953;Payne 1981
+7A-cam,No glottalized consonants,Glottalized Consonants,Camsá,,,Howard 1967;Mongui Sanchez 1981;Howard 1972
+7A-ckr,No glottalized consonants,Glottalized Consonants,Canela-Krahô,,,Popjes and Popjes 1986
+7A-cnt,No glottalized consonants,Glottalized Consonants,Cantonese,,,Zee 1999
+7A-car,No glottalized consonants,Glottalized Consonants,Carib,,,Peasgood 1972;Hoff 1968
+7A-ctl,No glottalized consonants,Glottalized Consonants,Catalan,,,Carbonell and Llisteri 1999
+7A-cay,No glottalized consonants,Glottalized Consonants,Cayapa,,,Lindskoog and Brend 1962
+7A-cyv,No glottalized consonants,Glottalized Consonants,Cayuvava,,,Key 1961;Key 1967
+7A-cha,No glottalized consonants,Glottalized Consonants,Chamorro,,,Seiden 1960;Topping 1973
+7A-chw,Implosives only,Glottalized Consonants,Cham (Western),,,Blood 1967;Edmondson and Gregerson 1993
+7A-cso,No glottalized consonants,Glottalized Consonants,Chatino (Sierra Occidental),,,Pride 1965
+7A-chl,Ejectives only,Glottalized Consonants,Chehalis (Upper),,,Kinkade 1963
+7A-che,No glottalized consonants,Glottalized Consonants,Cherokee,,,Bender and Harris 1946;Cook 1979;Walker 1975b
+7A-cck,No glottalized consonants,Glottalized Consonants,Chickasaw,,,Munro et al. 2002;Gordon et al. 2000
+7A-cle,No glottalized consonants,Glottalized Consonants,Chinantec (Lealao),,,Rupp 1989;Rupp 1990
+7A-chq,Glottalized resonants only,Glottalized Consonants,Chinantec (Quiotepec),,,Robbins 1968;Robbins 1961
+7A-cti,Glottalized resonants only,Glottalized Consonants,Chin (Tiddim),,,Henderson 1965
+7A-chp,Ejectives only,Glottalized Consonants,Chipewyan,,,Li 1933;Li 1946;Li 1932
+7A-cve,No glottalized consonants,Glottalized Consonants,Chuave,,,Thurman 1970
+7A-chk,No glottalized consonants,Glottalized Consonants,Chukchi,,,Krause 1980;Skorik 1961;Skorik 1968
+7A-chv,No glottalized consonants,Glottalized Consonants,Chuvash,,,Andreev 1966;Krueger 1961
+7A-cil,No glottalized consonants,Glottalized Consonants,CiLuba,,,de Schryver 1999
+7A-ccp,No glottalized consonants,Glottalized Consonants,Cocopa,,,Crawford 1966
+7A-cof,No glottalized consonants,Glottalized Consonants,Cofán,,,Borman 1962
+7A-cmn,No glottalized consonants,Glottalized Consonants,Comanche,,,Charney 1993;Wistrand-Robinson and Armagost 1990
+7A-coo,Ejectives only,Glottalized Consonants,Coos (Hanis),,,Zenk 1990
+7A-cre,No glottalized consonants,Glottalized Consonants,Cree (Plains),,,Dahlstrom 1991;Vinay 1992
+7A-cub,No glottalized consonants,Glottalized Consonants,Cubeo,,,Morse and Maxwell 1999b;Salser 1971
+7A-dad,No glottalized consonants,Glottalized Consonants,Dadibi,,,MacDonald 1973
+7A-dag,No glottalized consonants,Glottalized Consonants,Daga,,,Murane 1974
+7A-dgb,No glottalized consonants,Glottalized Consonants,Dagbani,,,Wilson and Bendor-Samuel 1969;Olawsky 1999
+7A-dgr,No glottalized consonants,Glottalized Consonants,Dagur,,,Bao 1982
+7A-dah,Ejectives and implosives,Glottalized Consonants,Dahalo,,,Nurse 1986;Tucker et al. 1977;Maddieson et al. 1993
+7A-ddf,Implosives only,Glottalized Consonants,Daju (Dar Fur),,,Tucker and Bryan 1966;Thelwall 1981
+7A-dan,Implosives only,Glottalized Consonants,Dan,,,Bearth and Zemp 1967
+7A-dnw,Implosives only,Glottalized Consonants,Dangaléat (Western),,,Fedry 1977
+7A-dni,No glottalized consonants,Glottalized Consonants,Dani (Lower Grand Valley),,,Bromley 1961;van der Stap 1966
+7A-dar,No glottalized consonants,Glottalized Consonants,Darai,,,Kotapish and Kotapish 1973;Kotapish and Kotapish 1975
+7A-det,Ejectives and implosives,Glottalized Consonants,Deti,,,Vossen 1997
+7A-die,No glottalized consonants,Glottalized Consonants,Diegueño (Mesa Grande),,,Langdon 1970
+7A-din,No glottalized consonants,Glottalized Consonants,Dinka,,,Andersen 1987;Malou 1988
+7A-dio,No glottalized consonants,Glottalized Consonants,Diola-Fogny,,,Sapir 1965
+7A-diy,No glottalized consonants,Glottalized Consonants,Diyari,,,Austin 1981
+7A-diz,Ejectives only,Glottalized Consonants,Dizi,,,Allan 1976b
+7A-djp,No glottalized consonants,Glottalized Consonants,Djapu,,,Morphy 1983;Rose et al. 1982
+7A-der,No glottalized consonants,Glottalized Consonants,Dla (Proper),,,Voorhoeve 1971
+7A-doy,Implosives only,Glottalized Consonants,Doyayo,,,Wiering 1974
+7A-dre,No glottalized consonants,Glottalized Consonants,Drehu,,,Moyse-Faurie 1983
+7A-dum,No glottalized consonants,Glottalized Consonants,Dumo,,,Ross 1980
+7A-dyi,No glottalized consonants,Glottalized Consonants,Dyirbal,,,Dixon 1972
+7A-efi,No glottalized consonants,Glottalized Consonants,Efik,,,Cook 1969a
+7A-eja,No glottalized consonants,Glottalized Consonants,Ejagham,,,Watters 1981
+7A-eka,No glottalized consonants,Glottalized Consonants,Ekari,,,Doble 1987;Steltenpool 1969
+7A-eng,No glottalized consonants,Glottalized Consonants,English,,,Gimson 1970
+7A-epe,No glottalized consonants,Glottalized Consonants,Epena Pedee,,,Harms 1984;Harms 1994;Harms 1985
+7A-evn,No glottalized consonants,Glottalized Consonants,Even,,,Novikova 1966;Novikova 1960
+7A-eve,No glottalized consonants,Glottalized Consonants,Evenki,,,Bulatova and Grenoble 1999;Nedjalkov 1997
+7A-ewe,No glottalized consonants,Glottalized Consonants,Ewe,,,Pasch 1995
+7A-ewo,No glottalized consonants,Glottalized Consonants,Ewondo,,,Nnomo and Mbezele 1982;Abega 1970;Redden 1979
+7A-eya,Ejectives only,Glottalized Consonants,Eyak,,,Krauss 1965
+7A-fas,No glottalized consonants,Glottalized Consonants,Fasu,,,Loeweke and May 1964
+7A-fef,No glottalized consonants,Glottalized Consonants,Fe'fe',,,Hyman 1972
+7A-fij,No glottalized consonants,Glottalized Consonants,Fijian,,,Dixon 1988
+7A-fin,No glottalized consonants,Glottalized Consonants,Finnish,,,Lehtinen 1970;Harms 1964;Wiik 1965
+7A-fre,No glottalized consonants,Glottalized Consonants,French,,,Fougeron and Smith 1999;Sten 1963
+7A-ful,No glottalized consonants,Glottalized Consonants,Fulniô,,,Lapenda 1968
+7A-fur,No glottalized consonants,Glottalized Consonants,Fur,,,Tucker and Bryan 1966;Beaton 1968;Jakobi 1990
+7A-fuz,No glottalized consonants,Glottalized Consonants,Fuzhou,,,Hanyu 1960;Norman 1988;Chen and Norman 1965;Chan 1985
+7A-fye,Implosives only,Glottalized Consonants,Fyem,,,Nettle 1998
+7A-ga,No glottalized consonants,Glottalized Consonants,Gã,,,Kropp 1987;Berry n.d.
+7A-gds,No glottalized consonants,Glottalized Consonants,Gadsup,,,Frantz and Frantz 1966
+7A-gar,No glottalized consonants,Glottalized Consonants,Garo,,,Burling 1961
+7A-grr,No glottalized consonants,Glottalized Consonants,Garrwa,,,Furby 1974
+7A-gbb,Implosives only,Glottalized Consonants,Gbeya Bossangoa,,,Samarin 1966;Monino and Roulon 1972
+7A-gla,No glottalized consonants,Glottalized Consonants,Gelao,,,He 1981;He 1983
+7A-geo,Ejectives only,Glottalized Consonants,Georgian,,,Robins and Waterson 1952;Neisser 1953;Selmer 1935;Vogt 1958;Vogt 1938;Tschenkéli 1958;Vogt 1971;Hewitt 1995
+7A-ger,No glottalized consonants,Glottalized Consonants,German,,,Kohler 1999;Wangler 1972;Moulton 1962
+7A-goa,No glottalized consonants,Glottalized Consonants,Goajiro,,,Holmer 1949d;Mansen 1967
+7A-goo,No glottalized consonants,Glottalized Consonants,Gooniyandi,,,McGregor 1990
+7A-gan,No glottalized consonants,Glottalized Consonants,Great Andamanese,,,Yadav n.d.
+7A-grb,No glottalized consonants,Glottalized Consonants,Grebo,,,Innes 1966
+7A-grk,No glottalized consonants,Glottalized Consonants,Greek (Modern),,,Householder et al. 1964
+7A-grw,No glottalized consonants,Glottalized Consonants,Greenlandic (West),,,Rischel 1974
+7A-ghb,No glottalized consonants,Glottalized Consonants,Guahibo,,,Kondo and Kondo 1967
+7A-gmb,No glottalized consonants,Glottalized Consonants,Guambiano,,,Branks and Branks 1973;Caudmont 1954
+7A-gua,No glottalized consonants,Glottalized Consonants,Guaraní,,,Gregores and Suarez 1967;Uldall 1956;Lunt 1973
+7A-gwa,Implosives only,Glottalized Consonants,Gwari,,,Hyman and Magaji 1970
+7A-had,Ejectives only,Glottalized Consonants,Hadza,,,Tucker et al. 1977;Sands et al. 1996
+7A-hai,Ejectives and glottalized resonants,Glottalized Consonants,Haida,,,Sapir 1923
+7A-hak,No glottalized consonants,Glottalized Consonants,Hakka,,,Hashimoto 1973
+7A-hmr,Ejectives and implosives,Glottalized Consonants,Hamer,,,Lydall 1976
+7A-ham,No glottalized consonants,Glottalized Consonants,Hamtai,,,Oates and Oates 1968;Healey 1981
+7A-hau,Ejectives and implosives,Glottalized Consonants,Hausa,,,Newman 2000;Schuh and Bagari 1999
+7A-haw,No glottalized consonants,Glottalized Consonants,Hawaiian,,,Schutz 1981;Elbert and Pukui 1979;Pukui and Elbert 1965
+7A-hba,No glottalized consonants,Glottalized Consonants,Hebrew (Modern Ashkenazic),,,Bolozky 1978;Bolozky 1997
+7A-hin,No glottalized consonants,Glottalized Consonants,Hindi,,,Kelkar 1968;Ohala 1983;Ohala 1999
+7A-hix,No glottalized consonants,Glottalized Consonants,Hixkaryana,,,Derbyshire 1985
+7A-hmo,No glottalized consonants,Glottalized Consonants,Hmong Njua,,,Wang 1985;Harriehausen 1990;Lyman 1974;Purnell 1972;Smalley 1976;Wang 1983
+7A-hop,No glottalized consonants,Glottalized Consonants,Hopi,,,Voegelin 1956;Whorf 1946a;Kluckhohn and MacLeish 1955
+7A-htc,Ejectives only,Glottalized Consonants,Huastec,,,Peralta 1984;McQuown 1984;Larsen and Pike 1949
+7A-hve,No glottalized consonants,Glottalized Consonants,Huave (San Mateo del Mar),,,Suarez 1975;Stairs Kreger and Scharfe de Stairs 1981
+7A-hum,No glottalized consonants,Glottalized Consonants,Huitoto (Murui),,,Minor et al. 1982;Burtch 1983;Aschmann 1993;Petersen de Piñeros 1994
+7A-hun,No glottalized consonants,Glottalized Consonants,Hungarian,,,Szende 1999;Banhidi et al. 1965;Hall 1944
+7A-hzb,Ejectives only,Glottalized Consonants,Hunzib,,,van den Berg 1995
+7A-hup,Ejectives only,Glottalized Consonants,Hupa,,,Gordon 1996;Woodward 1964;Golla 1970
+7A-iaa,No glottalized consonants,Glottalized Consonants,Iaai,,,Maddieson and Anderson 1995;Haudricourt 1971;Ozanne-Rivierre 1976
+7A-iba,No glottalized consonants,Glottalized Consonants,Iban,,,Omar 1981;Scott 1957
+7A-igb,No glottalized consonants,Glottalized Consonants,Igbo,,,Ikekeonwu 1999
+7A-ign,No glottalized consonants,Glottalized Consonants,Ignaciano,,,Ott and Ott 1967a
+7A-ijo,No glottalized consonants,Glottalized Consonants,Ijo (Kolokuma),,,Williamson 1965
+7A-ik,Ejectives and implosives,Glottalized Consonants,Ik,,,Tucker 1971;Heine 1975b
+7A-ika,No glottalized consonants,Glottalized Consonants,Ika,,,Frank 1990;Tracy and Tracy 1973
+7A-imo,No glottalized consonants,Glottalized Consonants,Imonda,,,Seiler 1985
+7A-ind,No glottalized consonants,Glottalized Consonants,Indonesian,,,Alwi et al. 1998
+7A-igs,No glottalized consonants,Glottalized Consonants,Ingessana,,,Tucker and Bryan 1966;Crewe 1975
+7A-ing,Ejectives only,Glottalized Consonants,Ingush,,,Nichols 1994b
+7A-irx,No glottalized consonants,Glottalized Consonants,Iranxe,,,Meader 1967
+7A-irq,Ejectives and implosives,Glottalized Consonants,Iraqw,,,Mous 1993;Nordbustad 1988;Whiteley 1958;Maghway 1995
+7A-irr,No glottalized consonants,Glottalized Consonants,Irarutu,,,Voorhoeve 1989
+7A-ird,No glottalized consonants,Glottalized Consonants,Irish (Donegal),,,Ní Chasaide 1999;Ó Dochartaigh 1992
+7A-iso,No glottalized consonants,Glottalized Consonants,Isoko,,,Donwa 1982
+7A-ite,Ejectives only,Glottalized Consonants,Itelmen,,,Volodin 1976
+7A-ito,Ejectives only,Glottalized Consonants,Itonama,,,Liccardi and Grimes 1968
+7A-ivs,No glottalized consonants,Glottalized Consonants,Ivatan (Southern),,,Heye and Hidalgo 1967;Hidalgo and Hidalgo 1971;Cottle and Cottle 1958
+7A-iwm,No glottalized consonants,Glottalized Consonants,Iwam,,,Laycock 1965b
+7A-jak,Ejectives only,Glottalized Consonants,Jakaltek,,,Craig 1977;Day 1973
+7A-jpn,No glottalized consonants,Glottalized Consonants,Japanese,,,Bloch 1950;Shibatani 1990;Martin 1952;Jorden 1963
+7A-jpr,No glottalized consonants,Glottalized Consonants,Japreria,,,Durbin and Seijas 1972
+7A-jaq,Ejectives only,Glottalized Consonants,Jaqaru,,,Hardman 2000
+7A-jav,No glottalized consonants,Glottalized Consonants,Javanese,,,Horne 1961;Uhlenbeck 1963;Fagan 1988;Herrfurth 1964
+7A-jeb,Ejectives and glottalized resonants,Glottalized Consonants,Jebero,,,Bendor-Samuel 1961b
+7A-jeh,Implosives only,Glottalized Consonants,Jeh,,,Gradin 1966;Cohen 1966;Gradin and Gradin 1979
+7A-jng,No glottalized consonants,Glottalized Consonants,Jingpho,,,Liu 1964
+7A-jiv,No glottalized consonants,Glottalized Consonants,Jivaro,,,Beasley and Pike 1957
+7A-jom,No glottalized consonants,Glottalized Consonants,Jomang,,,Schadeberg 1981a
+7A-juh,Ejectives only,Glottalized Consonants,Ju|'hoan,,,Dickens 1994;Snyman 1975;Snyman 1970
+7A-kab,Ejectives only,Glottalized Consonants,Kabardian,,,Kuipers 1960
+7A-kad,Implosives only,Glottalized Consonants,Kadugli,,,Matsushita 1984;Kutoado 1973
+7A-kng,No glottalized consonants,Glottalized Consonants,Kaingang,,,Wiesemann 1972;Henry 1935;Kindell 1972
+7A-kly,No glottalized consonants,Glottalized Consonants,Kala Lagaw Ya,,,Wurm 1972a;Kennedy 1981
+7A-kal,No glottalized consonants,Glottalized Consonants,Kalami,,,Baart 1997
+7A-kgu,No glottalized consonants,Glottalized Consonants,Kalkatungu,,,Blake 1979b
+7A-kzh,No glottalized consonants,Glottalized Consonants,Kam (Zhanglu),,,Zheng and Quan 1988
+7A-knk,Implosives only,Glottalized Consonants,Kanakuru,,,Newman 1974
+7A-knd,No glottalized consonants,Glottalized Consonants,Kannada,,,Sridhar 1990;Upadhyaya 1972;Steever 1998b
+7A-knr,No glottalized consonants,Glottalized Consonants,Kanuri,,,Lukas 1937;Awobuluyi 1971;Hutchison 1981
+7A-ksg,Implosives only,Glottalized Consonants,Karen (Sgaw),,,Jones 1961
+7A-krk,No glottalized consonants,Glottalized Consonants,Karok,,,Bright 1957
+7A-kas,No glottalized consonants,Glottalized Consonants,Kashmiri,,,Bhat 1987;Kelkar and Trisal 1964;Zakhar'in 1974;Zakhar'in and Edelman 1971
+7A-kws,No glottalized consonants,Glottalized Consonants,Kawaiisu,,,Zigmond et al. 1990-1991
+7A-kyl,No glottalized consonants,Glottalized Consonants,Kayah Li (Eastern),,,Solnit 1997
+7A-kay,No glottalized consonants,Glottalized Consonants,Kayardild,,,Evans 1995
+7A-ked,No glottalized consonants,Glottalized Consonants,Kedang,,,Körner 1985;Samely 1991
+7A-kef,Ejectives only,Glottalized Consonants,Kefa,,,Fleming 1976
+7A-kek,Ejectives and implosives,Glottalized Consonants,K'ekchí,,,Freeze 1975;Haeseriju 1966
+7A-ker,Implosives only,Glottalized Consonants,Kera,,,Ebert 1979;Ebert 1976
+7A-ket,No glottalized consonants,Glottalized Consonants,Ket,,,Vajda 2000;Dul'zon 1968;Feev 1998;Krejnovich 1968a
+7A-kew,No glottalized consonants,Glottalized Consonants,Kewa,,,Franklin and Franklin 1962
+7A-kha,No glottalized consonants,Glottalized Consonants,Khalkha,,,Luvsanvandan 1964;Hangin 1968;Street 1963;Svantesson 1985
+7A-kty,No glottalized consonants,Glottalized Consonants,Khanty,,,Nikolaeva 1999;Gulya 1966
+7A-khr,No glottalized consonants,Glottalized Consonants,Kharia,,,Pinnow 1959;Biligiri 1965
+7A-khs,No glottalized consonants,Glottalized Consonants,Khasi,,,Rabel 1961
+7A-khm,Implosives only,Glottalized Consonants,Khmer,,,Ehrman 1972b;Huffman 1970a;Huffman 1970b;Jacob 1968
+7A-kmu,Implosives and glottalized resonants,Glottalized Consonants,Khmu',,,Svantesson 1983
+7A-kho,No glottalized consonants,Glottalized Consonants,Khoekhoe,,,Hagman 1977;Ladefoged and Traill 1984;Vossen 1997
+7A-klv,No glottalized consonants,Glottalized Consonants,Kilivila,,,Senft 1986
+7A-kio,Ejectives only,Glottalized Consonants,Kiowa,,,Watkins 1984;Sivertsen 1956
+7A-kgz,No glottalized consonants,Glottalized Consonants,Kirghiz,,,Herbert and Poppe 1963;Junusaliev 1966
+7A-krb,No glottalized consonants,Glottalized Consonants,Kiribati,,,Groves et al. 1985
+7A-kss,Implosives only,Glottalized Consonants,Kisi (Southern),,,Childs 1995
+7A-kiw,No glottalized consonants,Glottalized Consonants, Kiwai (Southern),,,Wurm 1977
+7A-klm,Ejectives and glottalized resonants,Glottalized Consonants,Klamath,,,Barker 1963a;Barker 1964
+7A-kla,No glottalized consonants,Glottalized Consonants,Klao,,,Singler 1979
+7A-koa,No glottalized consonants,Glottalized Consonants,Koasati,,,Rising 1992;Haas 1944
+7A-kob,No glottalized consonants,Glottalized Consonants,Kobon,,,Davies 1981b;Davies 1980
+7A-koh,Implosives only,Glottalized Consonants,Kohumono,,,Cook 1969b
+7A-koi,No glottalized consonants,Glottalized Consonants,Koiari,,,Dutton 1996;Dutton 1969
+7A-kzy,No glottalized consonants,Glottalized Consonants,Komi-Zyrian,,,Bubrix 1949;Lytkin 1966b
+7A-kom,Ejectives and implosives,Glottalized Consonants,Komo,,,Tucker and Bryan 1966
+7A-kkn,No glottalized consonants,Glottalized Consonants,Konkani,,,Gajendragadkar 1970;Madtha 1984;Major 1979
+7A-kgi,Implosives only,Glottalized Consonants,Konyagi,,,Santos 1977
+7A-kor,Ejectives only,Glottalized Consonants,Korean,,,Kim 1972;Kim 1986;Lee 1999;Martin 1951;Martin 1954;Martin and Lee 1969;Cho 1967
+7A-kfe,No glottalized consonants,Glottalized Consonants,Koromfe,,,Rennison 1997
+7A-kry,No glottalized consonants,Glottalized Consonants,Koryak,,,Zhukova 1980
+7A-kot,No glottalized consonants,Glottalized Consonants,Kota,,,Emeneau 1944
+7A-ktk,Ejectives and implosives,Glottalized Consonants,Kotoko,,,Bouny 1977
+7A-koy,No glottalized consonants,Glottalized Consonants,Koya,,,Tyler 1969
+7A-kse,No glottalized consonants,Glottalized Consonants,Koyraboro Senni,,,Williamson 1967;Prost 1956
+7A-kch,No glottalized consonants,Glottalized Consonants,Koyra Chiini,,,Heath 1999b
+7A-kpa,No glottalized consonants,Glottalized Consonants,Kpan,,,Shimizu 1971
+7A-kpe,Implosives only,Glottalized Consonants,Kpelle,,,Hyman 1973;Welmers 1962;Welmers 1973
+7A-kro,Implosives only,Glottalized Consonants,Krongo,,,Reh 1985
+7A-kya,No glottalized consonants,Glottalized Consonants,Kuku-Yalanji,,,Oates 1964b;Wurm 1972a;Oates and Oates 1964
+7A-kul,Ejectives and implosives,Glottalized Consonants,Kullo,,,Allan 1976a
+7A-kun,No glottalized consonants,Glottalized Consonants,Kuna,,,Sherzer 1983;Baptista and Wallin 1974
+7A-knm,No glottalized consonants,Glottalized Consonants,Kunama,,,Bender 1996
+7A-kmp,No glottalized consonants,Glottalized Consonants,Kunimaipa,,,Pence 1966
+7A-krd,No glottalized consonants,Glottalized Consonants,Kurdish (Central),,,Abdulla and McCarus 1967;McCarus 1958
+7A-kur,No glottalized consonants,Glottalized Consonants,Kurukh,,,Pinnow 1964;Pfeiffer 1972
+7A-kut,Ejectives and glottalized resonants,Glottalized Consonants,Kutenai,,,Morgan 1991;Garvin 1948a
+7A-kwa,No glottalized consonants,Glottalized Consonants,Kwaio,,,Keesing 1985
+7A-kwk,Ejectives and glottalized resonants,Glottalized Consonants,Kwakw'ala,,,Boas 1947;Newman 1950;Grubb 1977;Boas 1911a
+7A-kwo,No glottalized consonants,Glottalized Consonants,Kwoma,,,Kooyers et al. 1971
+7A-lad,No glottalized consonants,Glottalized Consonants,Ladakhi,,,Koshal 1979
+7A-lah,No glottalized consonants,Glottalized Consonants,Lahu,,,Matisoff 1988;Matisoff 1973
+7A-lak,Ejectives only,Glottalized Consonants,Lak,,,Murkelinskij 1967;Khajdakov 1966b;Zhirkov 1955
+7A-lkt,Ejectives only,Glottalized Consonants,Lakhota,,,Carter 1974
+7A-lkk,Implosives only,Glottalized Consonants,Lakkia,,,Haudricourt 1967;Solnit 1988
+7A-lam,Implosives only,Glottalized Consonants,Lamé,,,Sachnine 1982
+7A-lan,No glottalized consonants,Glottalized Consonants,Lango,,,Okello 1975
+7A-lat,No glottalized consonants,Glottalized Consonants,Latvian,,,Mathiassen 1997
+7A-lav,No glottalized consonants,Glottalized Consonants,Lavukaleve,,,Terrill 1999
+7A-llm,No glottalized consonants,Glottalized Consonants,Lelemi,,,Höftmann 1971
+7A-len,No glottalized consonants,Glottalized Consonants,Lenakel,,,Lynch 1978
+7A-lep,No glottalized consonants,Glottalized Consonants,Lepcha,,,Mainwaring 1876;Ju 1996;Mainwaring 1898
+7A-lez,Ejectives only,Glottalized Consonants,Lezgian,,,Kodzasov 1990a;Haspelmath 1993
+7A-lit,No glottalized consonants,Glottalized Consonants,Lithuanian,,,Augustitis 1964;Ambrazas et al. 1966;Senn 1966
+7A-lu,No glottalized consonants,Glottalized Consonants,Lü,,,Morev 1978;Li 1964
+7A-lua,Implosives only,Glottalized Consonants,Lua,,,Boyeldieu 1985
+7A-lug,Implosives and glottalized resonants,Glottalized Consonants,Lugbara,,,Anderson 1986;Tucker and Bryan 1966;Crazzolara 1960
+7A-lui,No glottalized consonants,Glottalized Consonants,Luiseño,,,Bright 1968;Kroeber and Grace 1960;Malecot 1963b;Bright 1965a;Hyde 1971
+7A-luo,No glottalized consonants,Glottalized Consonants,Luo,,,Gregersen 1961
+7A-lus,"Ejectives, implosives, and glottalized resonants",Glottalized Consonants,Lushootseed,,,Bates et al. 1994
+7A-kkv,No glottalized consonants,Glottalized Consonants,Lusi,,,Counts 1969
+7A-luv,No glottalized consonants,Glottalized Consonants,Luvale,,,Horton 1949
+7A-maa,Implosives only,Glottalized Consonants,Maasai,,,Tucker and Mpaayei 1955;Tucker and Bryan 1966
+7A-mab,No glottalized consonants,Glottalized Consonants,Maba,,,Tucker and Bryan 1966
+7A-mne,Ejectives and implosives,Glottalized Consonants,Maidu (Northeast),,,Shipley 1964;Shipley 1956
+7A-mak,Ejectives only,Glottalized Consonants,Makah,,,Jacobsen 1999
+7A-mal,No glottalized consonants,Glottalized Consonants,Malagasy,,,Dyen 1971b;Dahl 1952
+7A-mlk,No glottalized consonants,Glottalized Consonants,Malakmalak,,,Tryon 1974;Birk 1975
+7A-mla,No glottalized consonants,Glottalized Consonants,Mambila,,,Perrin and Hill 1969;Connell 2000
+7A-mnc,No glottalized consonants,Glottalized Consonants,Manchu,,,Austin 1962
+7A-mnd,No glottalized consonants,Glottalized Consonants,Mandarin,,,Hanyu 1960;Cheng 1973a;Chao 1968;Dow 1972
+7A-myi,No glottalized consonants,Glottalized Consonants,Mangarrayi,,,Merlan 1982
+7A-mgg,No glottalized consonants,Glottalized Consonants,Mangghuer,,,Todaeva 1973
+7A-mao,No glottalized consonants,Glottalized Consonants,Maori,,,Bauer 1993
+7A-map,No glottalized consonants,Glottalized Consonants,Mapudungun,,,Smeets 1989
+7A-mrn,No glottalized consonants,Glottalized Consonants,Maranao,,,McKaughan and Macaraya 1967;McKaughan 1958
+7A-mku,No glottalized consonants,Glottalized Consonants,Maranungku,,,Tryon 1970b
+7A-mrg,Implosives only,Glottalized Consonants,Margi,,,Hoffmann 1963;Maddieson 1987
+7A-mar,No glottalized consonants,Glottalized Consonants,Maricopa,,,Gordon 1986
+7A-mme,No glottalized consonants,Glottalized Consonants,Mari (Meadow),,,Kovedjaeva 1966;Ristinen 1960
+7A-mrd,No glottalized consonants,Glottalized Consonants,Marind,,,Drabbe 1955
+7A-mrt,No glottalized consonants,Glottalized Consonants,Martuthunira,,,Dench 1995
+7A-mau,No glottalized consonants,Glottalized Consonants,Maung,,,Capell and Hinch 1970
+7A-max,No glottalized consonants,Glottalized Consonants,Maxakalí,,,Gudschinsky et al. 1970
+7A-mya,No glottalized consonants,Glottalized Consonants,Ma'ya,,,van der Leeden 1993;Remijsen 2001
+7A-may,No glottalized consonants,Glottalized Consonants,Maybrat,,,Dol 1999
+7A-maz,"Ejectives, implosives, and glottalized resonants",Glottalized Consonants,Mazahua,,,Spotts 1953
+7A-mzc,No glottalized consonants,Glottalized Consonants,Mazatec (Chiquihuitlán),,,Jamieson 1976b;Jamieson 1976a
+7A-mba,Implosives only,Glottalized Consonants,Mba,,,Pasch 1986
+7A-mbb,No glottalized consonants,Glottalized Consonants,Mbabaram,,,Dixon 1966a;Dixon 1966b
+7A-mbm,Implosives only,Glottalized Consonants,Mbum,,,Hagège 1970
+7A-mei,No glottalized consonants,Glottalized Consonants,Meithei,,,Bhat and Ningomba 1997;Chelliah 1997
+7A-mie,No glottalized consonants,Glottalized Consonants,Mien,,,Purnell 1965;Mao et al. 1982
+7A-mss,No glottalized consonants,Glottalized Consonants,Miwok (Southern Sierra),,,Freeland 1951;Broadbent 1964
+7A-mtp,No glottalized consonants,Glottalized Consonants,Mixe (Totontepec),,,Schoenhals and Schoenhals 1965;Crawford 1963
+7A-mxc,No glottalized consonants,Glottalized Consonants,Mixtec (Chalcatongo),,,Macaulay 1996
+7A-mxm,No glottalized consonants,Glottalized Consonants,Mixtec (Molinos),,,Hunter and Pike 1969
+7A-mog,No glottalized consonants,Glottalized Consonants,Moghol,,,Weiers 1971
+7A-mor,No glottalized consonants,Glottalized Consonants,Mor,,,Laycock 1978
+7A-mro,No glottalized consonants,Glottalized Consonants,Moro,,,Schadeberg 1981b;Black and Black 1971
+7A-mov,Implosives only,Glottalized Consonants,Movima,,,Judy and Judy 1962b;Aikhenvald and Dixon 1999
+7A-mui,No glottalized consonants,Glottalized Consonants,Muinane,,,Aschmann 1993;Walton and Walton 1967
+7A-mum,Implosives only,Glottalized Consonants,Mumuye,,,Shimizu 1983
+7A-mun,No glottalized consonants,Glottalized Consonants,Mundari,,,Sinha 1975;Pinnow 1959;Gumperz and Bilibiri 1957
+7A-mrl,Implosives only,Glottalized Consonants,Murle,,,Arensen 1982;Yigezu 2001
+7A-mpa,No glottalized consonants,Glottalized Consonants,Murrinh-Patha,,,Street and Mollinjin 1981
+7A-nhn,No glottalized consonants,Glottalized Consonants,Nahuatl (North Puebla),,,Brockway 1963
+7A-nht,No glottalized consonants,Glottalized Consonants,Nahuatl (Tetelcingo),,,Tuggy 1979
+7A-nmb,"Ejectives, implosives, and glottalized resonants",Glottalized Consonants,Nambikuára (Southern),,,Price 1976;Kroeker 1972
+7A-nai,No glottalized consonants,Glottalized Consonants,Nanai,,,Avrorin 1968
+7A-nnc,No glottalized consonants,Glottalized Consonants,Nancowry,,,Das 1977;Radhakrishnan 1981
+7A-nan,No glottalized consonants,Glottalized Consonants,Nandi,,,Creider and Creider 1989
+7A-nar,No glottalized consonants,Glottalized Consonants,Nara (in Ethiopia),,,Thompson 1976a;Bender 1968
+7A-nas,No glottalized consonants,Glottalized Consonants,Nasioi,,,Hurd and Hurd 1966
+7A-nbk,No glottalized consonants,Glottalized Consonants,Natügu,,,Wurm 1972b
+7A-nav,Ejectives only,Glottalized Consonants,Navajo,,,Young and Morgan 1972;Sapir and Hoijer 1967
+7A-nax,No glottalized consonants,Glottalized Consonants,Naxi,,,Jiang 1985;Bradley 1975;Jiang 1980
+7A-ndt,Implosives only,Glottalized Consonants,Ndut,,,Gueye 1986
+7A-ndy,No glottalized consonants,Glottalized Consonants,Ndyuka,,,Huttar and Huttar 1994;Huttar and Huttar 1972
+7A-nen,No glottalized consonants,Glottalized Consonants,Nenets,,,Ristinen 1965;Ristinen 1968;Tereshchenko 1966a;Katz 1975a;Hajdú 1963;Decsy 1966
+7A-nap,No glottalized consonants,Glottalized Consonants,Neo-Aramaic (Persian Azerbaijan),,,Garbell 1965
+7A-nep,No glottalized consonants,Glottalized Consonants,Nepali,,,Bandhu et al. 1971
+7A-new,No glottalized consonants,Glottalized Consonants,Newari (Kathmandu),,,Hale and Hale 1969;Manandhar 1986
+7A-nez,Ejectives and glottalized resonants,Glottalized Consonants,Nez Perce,,,Aoki 1994
+7A-nga,No glottalized consonants,Glottalized Consonants,Nganasan,,,Tereshchenko 1979;Tereshchenko 1966c;Castren 1966
+7A-nti,Implosives only,Glottalized Consonants,Ngiti,,,Kutsch Lojenga 1994
+7A-ngi,No glottalized consonants,Glottalized Consonants,Ngiyambaa,,,Donaldson 1980
+7A-ngz,Implosives only,Glottalized Consonants,Ngizim,,,Schuh 1981
+7A-nim,No glottalized consonants,Glottalized Consonants,Nimboran,,,Anceaux 1965
+7A-chu,Ejectives only,Glottalized Consonants,Nivacle,,,Stell 1972
+7A-niv,No glottalized consonants,Glottalized Consonants,Nivkh,,,Krejnovich 1937;Gruzdeva 1998
+7A-nko,No glottalized consonants,Glottalized Consonants,Nkore-Kiga,,,Taylor 1985
+7A-nob,No glottalized consonants,Glottalized Consonants,Nobiin,,,Bell 1971;Bell 1968;Werner 1987
+7A-non,No glottalized consonants,Glottalized Consonants,Noni,,,Hyman 1981b
+7A-nor,No glottalized consonants,Glottalized Consonants,Norwegian,,,Vanvik 1972
+7A-nug,No glottalized consonants,Glottalized Consonants,Nunggubuyu,,,Hughes and Leeding 1971;Heath 1984
+7A-nun,Implosives only,Glottalized Consonants,Nung (in Vietnam),,,Li 1977a
+7A-nuu,Ejectives and glottalized resonants,Glottalized Consonants,Nuuchahnulth,,,Stonham 1999;Carlson et al. 2001
+7A-nkt,No glottalized consonants,Glottalized Consonants,Nyah Kur (Tha Pong),,,Thongkum 1984;Diffloth 1984;Thongkum 1982
+7A-nyg,Implosives only,Glottalized Consonants,Nyangi,,,Heine 1975a
+7A-nyi,No glottalized consonants,Glottalized Consonants,Nyimang,,,Tucker and Bryan 1966;Stevenson 1957
+7A-nis,No glottalized consonants,Glottalized Consonants,Nyishi,,,Ray 1967;Namkung 1996
+7A-oca,No glottalized consonants,Glottalized Consonants,Ocaina,,,Aschmann 1993;Agnew and Pike 1957
+7A-ogb,Implosives only,Glottalized Consonants,Ogbia,,,Williamson 1970;Williamson 1972
+7A-oji,No glottalized consonants,Glottalized Consonants,Ojibwa (Eastern),,,Bloomfield 1957
+7A-ond,No glottalized consonants,Glottalized Consonants,Oneida,,,Abbott 2000;Michelson 1988
+7A-ood,No glottalized consonants,Glottalized Consonants,O'odham,,,Saxton 1963;Hale 1959;Saxton and Saxton 1969
+7A-orm,No glottalized consonants,Glottalized Consonants,Ormuri,,,Efimov 1986
+7A-orh,Ejectives and implosives,Glottalized Consonants,Oromo (Harar),,,Owens 1985
+7A-otm,No glottalized consonants,Glottalized Consonants,Otomí (Mezquital),,,Hess 1968;Sinclair and Pike 1948;Wallis 1968
+7A-pms,No glottalized consonants,Glottalized Consonants,Paamese,,,Crowley 1982
+7A-pac,Implosives only,Glottalized Consonants,Pacoh,,,Watson 1964
+7A-pae,No glottalized consonants,Glottalized Consonants,Páez,,,Gerdel 1985;Jung 1989;Gerdel 1973
+7A-pai,No glottalized consonants,Glottalized Consonants,Paiwan,,,Ferrel 1982;Ho 1977
+7A-pnr,No glottalized consonants,Glottalized Consonants,Panare,,,Cauty 1974b;Cauty 1978;Payne 1990b;Cauty 1974a
+7A-puk,No glottalized consonants,Glottalized Consonants,Parauk,,,Diffloth 1980;Maddieson and Ladefoged 1985;Qiu et al. 1980
+7A-psh,No glottalized consonants,Glottalized Consonants,Pashto,,,Grjunberg 1987;Shafeev 1964;Penzl 1955
+7A-psm,No glottalized consonants,Glottalized Consonants,Passamaquoddy-Maliseet,,,Sherwood 1986;Leavitt 1996;LeSourd 1993
+7A-pau,Implosives only,Glottalized Consonants,Paumarí,,,Chapman 1981;Chapman and Derbyshire 1991
+7A-paw,No glottalized consonants,Glottalized Consonants,Pawaian,,,Trefry 1972;MacDonald 1973
+7A-pec,No glottalized consonants,Glottalized Consonants,Pech,,,Holt 1999b;Holt 1986
+7A-prs,No glottalized consonants,Glottalized Consonants,Persian,,,Obolensky et al. 1963;Majidi and Ternes 1999
+7A-phl,Implosives only,Glottalized Consonants,Phlong,,,Cooke et al. 1976
+7A-prh,No glottalized consonants,Glottalized Consonants,Pirahã,,,Everett 1986
+7A-pit,No glottalized consonants,Glottalized Consonants,Pitjantjatjara,,,Eckert and Hudson 1988;Glass and Hackett 1970
+7A-poa,No glottalized consonants,Glottalized Consonants,Po-Ai,,,
+7A-poh,No glottalized consonants,Glottalized Consonants,Pohnpeian,,,Rehg 1984b;Rehg 1981;Rehg 1984a
+7A-pol,No glottalized consonants,Glottalized Consonants,Polish,,,
+7A-pso,Ejectives only,Glottalized Consonants,Pomo (Southeastern),,,Moshinsky 1974
+7A-pur,No glottalized consonants,Glottalized Consonants,Purépecha,,,de Paul 1989;Foster 1969;Chamereau 2000
+7A-bng,No glottalized consonants,Glottalized Consonants,Qaget,,,Parker and Parker 1974
+7A-qaw,Ejectives only,Glottalized Consonants,Qawasqar,,,Clairis 1977;Clairis 1985
+7A-qco,Ejectives only,Glottalized Consonants,Quechua (Cochabamba),,,Lastra 1968
+7A-qui,Ejectives only,Glottalized Consonants,Quileute,,,Powell 1975;Hoard 1993
+7A-ram,No glottalized consonants,Glottalized Consonants,Rama,,,Grinevald 1988
+7A-rap,No glottalized consonants,Glottalized Consonants,Rapanui,,,Du Feu 1996
+7A-res,No glottalized consonants,Glottalized Consonants,Resígaro,,,Allin 1976
+7A-rom,No glottalized consonants,Glottalized Consonants,Romanian,,,Tataru 1978;Ruhlen 1973;Agard 1958
+7A-rsc,No glottalized consonants,Glottalized Consonants,Romansch (Scharans),,,Solèr and Ebneter 1988
+7A-ror,No glottalized consonants,Glottalized Consonants,Roro,,,Bluhme 1970;Davis 1974
+7A-rtk,No glottalized consonants,Glottalized Consonants,Rotokas,,,Firchow et al. 1973;Firchow and Firchow 1969
+7A-ruk,No glottalized consonants,Glottalized Consonants,Rukai (Tanan),,,Li 1973;Li 1977b
+7A-rus,No glottalized consonants,Glottalized Consonants,Russian,,,Halle 1959;Jones and Ward 1969
+7A-rut,Ejectives only,Glottalized Consonants,Rutul,,,Kodzasov 1990b;Dzhejranishvili 1967;Ibragimov 1978
+7A-scs,No glottalized consonants,Glottalized Consonants,Saami (Central-South),,,Hasselbrink 1965;Kert 1971
+7A-sab,No glottalized consonants,Glottalized Consonants,Sa'ban,,,Clayre 1973
+7A-sba,No glottalized consonants,Glottalized Consonants,Sáliba (in Colombia),,,Benaissa 1979
+7A-sdw,Ejectives only,Glottalized Consonants,Sandawe,,,Tucker et al. 1977;Dempwolff 1916;Elderkin 1982;Kagaya 1993;Maddieson et al. 1999
+7A-san,Implosives only,Glottalized Consonants,Sango,,,Samarin 1967b;Samarin 1967a
+7A-snm,No glottalized consonants,Glottalized Consonants,Sanuma,,,Aikhenvald and Dixon 1999;Borgman 1990
+7A-svs,No glottalized consonants,Glottalized Consonants,Savosavo,,,Todd 1975
+7A-seb,No glottalized consonants,Glottalized Consonants,Sebei,,,Montgomery 1970
+7A-sed,Implosives and glottalized resonants,Glottalized Consonants,Sedang,,,Smith 1979;Smith 1968
+7A-slp,No glottalized consonants,Glottalized Consonants,Selepet,,,McElhanon 1970b;McElhanon 1970c
+7A-sel,Ejectives only,Glottalized Consonants,Selknam,,,Najlis 1973
+7A-skp,No glottalized consonants,Glottalized Consonants,Selkup,,,Prokofjeva 1966;Katz 1975b
+7A-sml,Glottalized resonants only,Glottalized Consonants,Semelai,,,Kruspe 1999
+7A-snd,No glottalized consonants,Glottalized Consonants,Senadi,,,Welmers 1950
+7A-snc,No glottalized consonants,Glottalized Consonants,Seneca,,,Chafe 1967
+7A-snt,No glottalized consonants,Glottalized Consonants,Sentani,,,Cowan 1965
+7A-sha,No glottalized consonants,Glottalized Consonants,Shan,,,Chan 1980;Cheng 1973b;Chao 1951
+7A-shs,Ejectives only,Glottalized Consonants,Shasta,,,Silver 1964;Silver 1966
+7A-shk,No glottalized consonants,Glottalized Consonants,Shipibo-Konibo,,,Loriot et al. 1993;Valenzuela et al. 2001
+7A-shi,No glottalized consonants,Glottalized Consonants,Shiriana,,,Migliazza and Grimes 1961
+7A-shu,Ejectives and glottalized resonants,Glottalized Consonants,Shuswap,,,Kuipers 1974
+7A-sdh,Implosives only,Glottalized Consonants,Sindhi,,,Nihalani 1999
+7A-snh,No glottalized consonants,Glottalized Consonants,Sinhala,,,Coates and da Silva 1960
+7A-sin,Ejectives only,Glottalized Consonants,Siona,,,Wheeler and Wheeler 1962
+7A-srn,No glottalized consonants,Glottalized Consonants,Sirionó,,,Firestone 1965
+7A-sla,Ejectives and glottalized resonants,Glottalized Consonants,Slave,,,Rice 1976;Rice 1978;Rice 1989
+7A-som,No glottalized consonants,Glottalized Consonants,Somali,,,Cardona 1981;Armstrong 1964;Andrzejewsky 1956;Andrzejewsky 1955;Hyman 1981a;Farnetani 1981
+7A-soq,Ejectives and glottalized resonants,Glottalized Consonants,Soqotri,,,Johnstone 1975;Leslau 1938
+7A-sor,No glottalized consonants,Glottalized Consonants,Sora,,,Ramamurti 1986
+7A-spa,No glottalized consonants,Glottalized Consonants,Spanish,,,Saporta and Contreras 1962;Harris 1969a;Navarro 1961
+7A-squ,Ejectives and glottalized resonants,Glottalized Consonants,Squamish,,,Kuipers 1967
+7A-sre,Implosives only,Glottalized Consonants,Sre,,,Manley 1972
+7A-sue,No glottalized consonants,Glottalized Consonants,Suena,,,Wilson 1974;Wilson 1969
+7A-sui,Implosives and glottalized resonants,Glottalized Consonants,Sui,,,Li 1948
+7A-sup,No glottalized consonants,Glottalized Consonants,Supyire,,,Carlson 1994
+7A-swa,No glottalized consonants,Glottalized Consonants,Swahili,,,Polomé n.d.
+7A-tab,No glottalized consonants,Glottalized Consonants,Taba,,,Bowden and Hajek 1999;Bowden 1997a
+7A-tac,No glottalized consonants,Glottalized Consonants,Tacana,,,Van Wynen and Van Wynen 1962;Key 1968
+7A-tag,No glottalized consonants,Glottalized Consonants,Tagalog,,,Schachter and Otanes 1972;Bloomfield 1917
+7A-tma,Implosives only,Glottalized Consonants,Tama,,,Tucker and Bryan 1966
+7A-tam,No glottalized consonants,Glottalized Consonants,Tamang (Eastern),,,Mazaudon 1973
+7A-tmp,No glottalized consonants,Glottalized Consonants,Tampulma,,,Bergman et al. 1969
+7A-tok,Implosives only,Glottalized Consonants,Tarok,,,Robinson 1976
+7A-tas,No glottalized consonants,Glottalized Consonants,Tashlhiyt,,,Applegate 1958
+7A-tsg,No glottalized consonants,Glottalized Consonants,Tausug,,,Ashley 1963
+7A-teh,Ejectives only,Glottalized Consonants,Tehuelche,,,Fernandez Garay 1998
+7A-tks,No glottalized consonants,Glottalized Consonants,Teke (Southern),,,Paulian 1975
+7A-tel,No glottalized consonants,Glottalized Consonants,Telugu,,,Lisker 1963;Sastry 1972;Kostic et al. 1977;Kelley 1963;Krishnamurti 1961
+7A-tmn,No glottalized consonants,Glottalized Consonants,Temein,,,Tucker and Bryan 1966
+7A-tne,No glottalized consonants,Glottalized Consonants,Temne,,,Wilson 1961a;Dalby 1966
+7A-ter,Implosives only,Glottalized Consonants,Tera,,,Newman 1970
+7A-ttn,No glottalized consonants,Glottalized Consonants,Tetun,,,Morris 1984
+7A-tha,No glottalized consonants,Glottalized Consonants,Thai,,,Haas 1964;Kalaya and Abramson 1999;Kruatrachue 1960;Noss 1954;Noss 1964;Abramson 1962
+7A-tib,No glottalized consonants,Glottalized Consonants,Tibetan (Standard Spoken),,,Denwood 1999
+7A-tic,No glottalized consonants,Glottalized Consonants,Ticuna,,,Anderson 1962;Anderson 1959
+7A-tgk,No glottalized consonants,Glottalized Consonants,Tigak,,,Beaumont 1979
+7A-tgr,Ejectives only,Glottalized Consonants,Tigré,,,Klingenheben 1966;Palmer 1962
+7A-try,No glottalized consonants,Glottalized Consonants,Tiruray,,,Schlegel 1971;Post 1966
+7A-twn,Ejectives only,Glottalized Consonants,Tiwa (Northern),,,Trager 1971;Hoijer and Dozier 1949
+7A-tiw,No glottalized consonants,Glottalized Consonants,Tiwi,,,Osborne 1974;Anderson and Maddieson 1994;Lee 1983;Lee 1984
+7A-tlp,No glottalized consonants,Glottalized Consonants,Tlapanec,,,Suárez 1983a
+7A-tli,Ejectives only,Glottalized Consonants,Tlingit,,,Maddieson et al. 2001
+7A-toa,No glottalized consonants,Glottalized Consonants,Toaripi,,,Brown 1973
+7A-tol,Ejectives only,Glottalized Consonants,Tol,,,Holt 1999a;Fleming and Dennis 1977
+7A-ton,No glottalized consonants,Glottalized Consonants,Tonkawa,,,Hoijer 1946b;Hoijer 1972;Hoijer 1949
+7A-dts,No glottalized consonants,Glottalized Consonants,Toro So,,,Bendor-Samuel et al. 1989;Plungian 1995
+7A-tpa,No glottalized consonants,Glottalized Consonants,Totonac (Papantla),,,Aschmann 1946
+7A-tru,Ejectives only,Glottalized Consonants,Trumai,,,Monod-Becquelin 1975;Guirardello 1992;Guirardello 1999b
+7A-tsi,Ejectives and glottalized resonants,Glottalized Consonants,Tsimshian (Coast),,,Dunn 1995;Dunn 1970;Dunn 1979;Hoard 1978;Mulder 1988
+7A-tso,Implosives only,Glottalized Consonants,Tsou,,,Wright and Ladefoged 1994;Tung 1964
+7A-ttu,Ejectives only,Glottalized Consonants,Tsova-Tush,,,Desheriev 1953
+7A-tug,No glottalized consonants,Glottalized Consonants,Tuareg (Ahaggar),,,Louali-Reynal et al. 1997;Prasse 1972
+7A-tuk,Implosives only,Glottalized Consonants,Tukang Besi,,,Donohue 1999c;Donohue 1999a
+7A-tul,No glottalized consonants,Glottalized Consonants,Tulu,,,Bhat 1967
+7A-tun,No glottalized consonants,Glottalized Consonants,Tunica,,,Haas 1940
+7A-tur,No glottalized consonants,Glottalized Consonants,Turkish,,,Zimmer and Orgun 1999
+7A-tuv,No glottalized consonants,Glottalized Consonants,Tuvan,,,Anderson and Harrison 1999;Sat 1966;Seglenmej 1979;Song 1982
+7A-tza,Ejectives only,Glottalized Consonants,Tzeltal (Aguacatenango),,,Kaufman 1971
+7A-umb,No glottalized consonants,Glottalized Consonants,UMbundu,,,Schadeberg 1990;Schadeberg 1982
+7A-una,No glottalized consonants,Glottalized Consonants,Una,,,Louwerse 1988
+7A-ung,No glottalized consonants,Glottalized Consonants,Ungarinjin,,,Coate and Elkin 1974;Coate and Oates 1970;Rumsey 1982
+7A-urk,No glottalized consonants,Glottalized Consonants,Urubú-Kaapor,,,Kakumasu 1986
+7A-usa,No glottalized consonants,Glottalized Consonants,Usan,,,Reesink 1987
+7A-uzn,No glottalized consonants,Glottalized Consonants,Uzbek (Northern),,,Sjoberg 1962;Sjoberg 1963
+7A-vie,Implosives only,Glottalized Consonants,Vietnamese,,,Thompson 1965;Emeneau 1951;Nguyen 1974a;Nguyen 1990
+7A-wah,No glottalized consonants,Glottalized Consonants,Wahgi,,,Phillips 1976;Ladefoged et al. 1977
+7A-bno,No glottalized consonants,Glottalized Consonants,Waimaha,,,Stolte and Stolte 1971
+7A-wam,No glottalized consonants,Glottalized Consonants,Wambaya,,,Nordlinger 1998
+7A-wnt,No glottalized consonants,Glottalized Consonants,Wantoat,,,Davis 1969
+7A-wao,No glottalized consonants,Glottalized Consonants,Waorani,,,Saint and Pike 1962
+7A-wps,Implosives only,Glottalized Consonants,Wapishana,,,Tracy 1972
+7A-wap,Ejectives and glottalized resonants,Glottalized Consonants,Wappo,,,Sawyer 1965
+7A-wra,No glottalized consonants,Glottalized Consonants,Warao,,,Osborn 1966;Romero-Figueroa 1997;Vaquero 1965;de Goeje 1930
+7A-wry,No glottalized consonants,Glottalized Consonants,Waray (in Australia),,,Harvey 1986
+7A-wrd,No glottalized consonants,Glottalized Consonants,Wardaman,,,Merlan 1994
+7A-war,Glottalized resonants only,Glottalized Consonants,Wari',,,MacEachern et al. 1997;Everett and Kern 1997
+7A-wrs,No glottalized consonants,Glottalized Consonants,Waris,,,Brown 1988b
+7A-wdo,No glottalized consonants,Glottalized Consonants,Western Desert (Ooldea),,,Douglas 1964;Douglas 1955
+7A-wma,No glottalized consonants,Glottalized Consonants,West Makian,,,Watuseke 1976;Voorhoeve 1982
+7A-wch,Ejectives and glottalized resonants,Glottalized Consonants,Wichí,,,Tovar 1981;Viñas Urquiza 1974;Hunt 1940
+7A-wic,Ejectives and glottalized resonants,Glottalized Consonants,Wichita,,,Rood 1976
+7A-wmu,No glottalized consonants,Glottalized Consonants,Wik Munkan,,,Sayers and Godfrey 1964;McConnel 1945
+7A-win,Ejectives only,Glottalized Consonants,Wintu,,,Pitkin 1984;Schlichter 1981
+7A-wiy,No glottalized consonants,Glottalized Consonants,Wiyot,,,Teeter 1964
+7A-woi,No glottalized consonants,Glottalized Consonants,Woisika,,,Stokhof 1979
+7A-wlf,No glottalized consonants,Glottalized Consonants,Wolof,,,Ward 1963;Ka 1994;Manessy and Sauvageot 1963;Sauvageot 1965
+7A-wuc,No glottalized consonants,Glottalized Consonants,Wu,,,Chao 1970
+7A-xia,No glottalized consonants,Glottalized Consonants,Xiamen,,,Hanyu 1960;Norman 1988;Ramsey 1987
+7A-xoo,Ejectives and glottalized resonants,Glottalized Consonants,!Xóõ,,,Traill 1985;Traill 1994
+7A-ygr,Implosives only,Glottalized Consonants,Yagaria,,,Renck 1975;Renck 1967;Haiman 1980
+7A-yag,No glottalized consonants,Glottalized Consonants,Yagua,,,Payne 1985
+7A-ykt,No glottalized consonants,Glottalized Consonants,Yakut,,,Bohtlingk 1964;Krueger 1962;Ubrjatova 1966
+7A-yan,Ejectives only,Glottalized Consonants,Yana,,,Sapir and Swadesh 1960
+7A-yny,No glottalized consonants,Glottalized Consonants,Yanyuwa,,,Kirton and Charlie 1978;Huttar and Kirton 1981;Kirton 1967
+7A-yap,Ejectives and glottalized resonants,Glottalized Consonants,Yapese,,,Jensen et al. 1977;Hsu 1969
+7A-yaq,No glottalized consonants,Glottalized Consonants,Yaqui,,,Dedrick and Casad 1999;Kurath and Spicer 1947
+7A-yar,No glottalized consonants,Glottalized Consonants,Yareba,,,Weimer and Weimer 1972
+7A-yaw,No glottalized consonants,Glottalized Consonants,Yawa,,,Jones 1986b
+7A-yay,No glottalized consonants,Glottalized Consonants,Yay,,,Gedney 1965
+7A-yel,No glottalized consonants,Glottalized Consonants,Yelî Dnye,,,
+7A-yes,No glottalized consonants,Glottalized Consonants,Yessan-Mayo,,,Foreman and Marten 1973
+7A-yey,Ejectives only,Glottalized Consonants,Yeyi,,,Gowlett 1997
+7A-yid,No glottalized consonants,Glottalized Consonants,Yidiny,,,Dixon 1977a
+7A-yim,No glottalized consonants,Glottalized Consonants,Yimas,,,Foley 1991
+7A-yor,No glottalized consonants,Glottalized Consonants,Yoruba,,,Bamgbose 1966
+7A-yct,Ejectives and implosives,Glottalized Consonants,Yucatec,,,Straight 1976
+7A-yuc,Ejectives and glottalized resonants,Glottalized Consonants,Yuchi,,,Crawford 1973;Ballard 1975
+7A-ycn,No glottalized consonants,Glottalized Consonants,Yucuna,,,Schauer and Schauer 1967
+7A-yko,No glottalized consonants,Glottalized Consonants,Yukaghir (Kolyma),,,Maslova 1999
+7A-ytu,No glottalized consonants,Glottalized Consonants,Yukaghir (Tundra),,,Krejnovich 1968c;Krejnovich 1958
+7A-yul,Implosives only,Glottalized Consonants,Yulu,,,Boyeldieu 1987
+7A-yus,No glottalized consonants,Glottalized Consonants,Yupik (Siberian),,,Krauss 1975
+7A-yur,Ejectives and glottalized resonants,Glottalized Consonants,Yurok,,,Robins 1958
+7A-zan,No glottalized consonants,Glottalized Consonants,Zande,,,Tucker and Hackett 1959
+7A-zqc,No glottalized consonants,Glottalized Consonants,Zoque (Copainalá),,,Wonderly 1951a
+7A-zul,Ejectives and implosives,Glottalized Consonants,Zulu,,,Ziervogel et al. 1981;Poulos and Msimang 1998;Poulos and Bosch 1997;Doke 1961;Canonici 1989;Doke 1926
+7A-zun,Ejectives only,Glottalized Consonants,Zuni,,,Walker 1972;Newman 1965
