@@ -6,4 +6,4 @@ A full description of our visualization approach and reasoning is provided in:
 
 Garland McNew, Curdin Derungs and Steven Moran. Accepted. Towards faithfully visualizing global linguistic diversity. To appear in Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018). May 7--12, Miyazaki, Japan.
 
-A preliminary PDF version is available in this [here](https://github.com/bambooforest/visualizing-typology-data/blob/master/McNewDerungsMoran2018.pdf).
+A preliminary PDF version is available  [here](https://github.com/bambooforest/visualizing-typology-data/blob/master/McNewDerungsMoran2018.pdf).
